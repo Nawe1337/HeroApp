@@ -1,0 +1,5 @@
+export * from "./DcPages"
+export * from "./HeroPage"
+export * from "./MarvelPages"
+export * from "./SearchPage"
+export * from "./HomePage"

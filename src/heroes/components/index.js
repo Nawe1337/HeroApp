@@ -1,0 +1,6 @@
+export * from "./HeroCards"
+export * from "./HeroList"
+export * from "./Footer"
+export * from "./GaleriaFotos"
+export * from "./Main"
+export * from "./PlanesComponent"

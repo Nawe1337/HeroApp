@@ -1,0 +1,23 @@
+/* NavBar.css */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: none; /* Fondo semi-transparente para incrustar en la imagen */
+  color: white;
+  position: absolute; /* Para estar sobre la imagen */
+  width: 100%;
+  top: 0;
+  z-index: 1;
+  margin-top: 0px;
+  
+}
+
+.navbar-collapse {
+  margin-top: 20px;
+}
+
+.navbar-expand-lg .navbar-collapse {
+  margin-top: 5px;
+}

@@ -16,8 +16,8 @@ const PlanesComponent = () => {
       { title: 'Captain America', desc: ' Steve Rogers, an ordinary man turned supersoldier by the super-soldier serum, fights for justice and the ideals of freedom as the iconic Captain America.', img: '3' },
     ],
     plan2: [
-      { title: 'Batman', desc: 'Batman es un vigilante de Gotham City, un héroe sin poderes que usa su intelecto, habilidades de combate y tecnología para luchar contra el crimen.', img: '1' },
-      { title: 'Super man', desc: 'Superman es un kryptoniano con poderes sobrehumanos que protege la Tierra, siendo un símbolo de esperanza y justicia.', img: '2' },
+      { title: 'Batman', desc: 'Batman is a Gotham City vigilante, a hero without powers who uses his intellect, combat skills and technology to fight crime.', img: '1' },
+      { title: 'Super man', desc: 'Superman is a Kryptonian with superhuman powers who protects the Earth and is a symbol of hope and justice.', img: '2' },
       { title: 'Spider-Man', desc: 'Peter Parker, a young New Yorker, gains spider-like powers after being bitten by a radioactive spider and dedicates himself to fighting crime while balancing his personal life.', img: '3' },
     ],
    
